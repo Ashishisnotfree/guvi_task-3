@@ -1,4 +1,4 @@
-// guvi_task-3 {forloop and for in loop for JSON}
+# guvi_task-3 {forloop and for in loop for JSON}
 const readline = require('readline');
 const inp = readline.createInterface({
   input: process.stdin
